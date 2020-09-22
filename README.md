@@ -1,6 +1,6 @@
 ## See live here:
 
- https://dudamaciej88.github.io/breaking-bad-app/
+ https://dudamaciej88.github.io/todo/
 
 ## Description:
 
